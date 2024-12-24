@@ -25,7 +25,9 @@ Welcome to my GitHub profile! I'm a Biomedical Engineering and Aspring Software 
 <br>
 
 # _Status_
-![LeetCode Stats](https://leetcode.card.workers.dev/Luffydaro?theme=dark&font=source_code_pro&extension=null)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Luffydaro?theme=dark&font=ABeeZee&ext=activity)
+
 ---
 <img width="100%" height="300px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhsbGxhbjc0Yzg3d3BhdWNobHh5Z2lqZ3Z3MHR2aG5ldncxbDBzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1o1ui55UjjdkbsV4ld/giphy.webp">
 
